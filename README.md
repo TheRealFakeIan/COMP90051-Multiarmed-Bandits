@@ -30,6 +30,9 @@ The following details may be helpful to understand the structure of dataset.
 • 10,000 lines (i.e., rows) corresponding to distinct site visits by users aka. events; 
 
 • Each row comprises 102 space-delimited columns of integers: 
+
 – Column 1: The arm played by a uniformly-random policy out of 10 arms (news articles); 
+
 – Column 2: The reward received from the arm played—1 if the user clicked 0 otherwise;
+
 – Columns 3–102: The 100-dim flattened context: 10 features per arm (incorporating the content of the article and its match with the visiting user), first the features for arm 1, then arm 2, etc. up to arm 10.
