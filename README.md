@@ -27,7 +27,7 @@ Full details of the project can be found in the project specification project2.p
 
 The following details may be helpful to understand the structure of dataset.
 
-• 10,000 lines (i.e., rows) corresponding to distinct site visits by users—events in the language of this part; 
+• 10,000 lines (i.e., rows) corresponding to distinct site visits by users aka. events; 
 
 • Each row comprises 102 space-delimited columns of integers: 
 – Column 1: The arm played by a uniformly-random policy out of 10 arms (news articles); 
