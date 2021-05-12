@@ -1,7 +1,7 @@
 # Multi-armed Bandits (MAB)
 
 
-This repository contains the source code for Assignment 2 of COMP90051 Statistical Machine Learning course, Semester 2 2020 at the University of Melbourne
+This repository contains the source code for Assignment 2 from COMP90051 Statistical Machine Learning course, Semester 2 2020 at the University of Melbourne.
 
 This notebook contains the implementation of several MAB classes, namely:
 
