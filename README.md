@@ -3,7 +3,7 @@
 
 This repository contains the source code for Assignment 2 of COMP90051 Statistical Machine Learning course, Semester 2 2020 at the University of Melbourne
 
-This notebook demonstrates the implementation of several classes of MAB, namely:
+This notebook contains the implementation of several MAB classes, namely:
 
 1. ε-greedy and UCB MABs
 2. Off-policy evaluation (Li et al., 2010, 2011)
